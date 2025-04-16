@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+faiss-cpu
+tqdm
+together
+python-dotenv
+pypdf
+sentence-transformers
